@@ -1,0 +1,5 @@
+{
+  "projectId": "your-gcp-project-id",
+  "keyFilename": "./config/service-account-key.json",
+  "bucketName": "your-bucket-name"
+}
