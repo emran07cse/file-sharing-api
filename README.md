@@ -54,9 +54,11 @@ CLEANUP_DAYS=7         # delete files not accessed for N days
 
 # Storage provider (future extension)
 PROVIDER=local
+#PROVIDER=google
 CONFIG=./config/google.json
-```
-
+``**
+if you want to set google cloud you must configure the google.json 
+**
 ---
 
 ## ▶️ Running the Server
@@ -178,3 +180,4 @@ meldcx/
 ```
 
 --- 
+
